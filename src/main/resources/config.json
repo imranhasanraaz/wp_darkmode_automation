@@ -1,0 +1,4 @@
+{
+  "site" : "http://localhost/wordpress",
+  "adminLogin" : "http://localhost/wordpress/wp-login.php"
+}

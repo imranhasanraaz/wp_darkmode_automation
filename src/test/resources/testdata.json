@@ -1,0 +1,7 @@
+{
+  "plugin" : "WP Dark Mode",
+  "pluginLocation" : "./src/test/resources/wp-dark-mode.zip",
+  "darkModeBackgroundColor" : "rgba(0, 0, 0, 0)",
+  "scaleSize" : "220",
+  "position"  : "Left Bottom"
+}
