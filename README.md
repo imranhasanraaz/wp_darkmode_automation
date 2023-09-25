@@ -1,3 +1,12 @@
+## Wordpress Plugin Test Automation
+
+# Content
+- [Introduction](https://github.com/imranhasanraaz/wp_darkmode_automation/blob/main/README.md#introduction)
+- [Technologies used in this project]()
+- [Install]()
+- [To Run This Project]
+- 
+
 # Introduction
 -Main aim of this project is automated test cases of wordpress plugin. 
 
@@ -17,7 +26,7 @@ https://www.oracle.com/java/technologies/downloads/
  Click =>Binaries    
  =>**apache-maven-3.9.4-bin.zip**
 
-**Install WordPress Locally**
+# Install WordPress Locally
 
 [See Here](https://www.hostinger.com/tutorials/wordpress-localhost)
 
