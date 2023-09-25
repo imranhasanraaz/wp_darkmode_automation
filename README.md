@@ -1,6 +1,11 @@
 # Introduction
 -Main aim of this project is automated test cases of wordpress plugin. 
 
+# Technologies used in this project
+- [Aquality Selenium 4.0.0](https://github.com/aquality-automation/aquality-selenium-java)
+- [TestNG 7.8.1](https://mvnrepository.com/artifact/org.testng/testng)
+- Wordpress 6.3.1 
+
 # Install
 **Java**  
 https://www.oracle.com/java/technologies/downloads/
