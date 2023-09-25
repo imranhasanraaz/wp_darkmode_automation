@@ -2,9 +2,10 @@
 
 # Content
 - [Introduction](https://github.com/imranhasanraaz/wp_darkmode_automation/blob/main/README.md#introduction)
-- [Technologies used in this project]()
-- [Install]()
-- [To Run This Project]
+- [Technologies used in this project](https://github.com/imranhasanraaz/wp_darkmode_automation/blob/main/README.md#technologies-used-in-this-project)
+- [Install](https://github.com/imranhasanraaz/wp_darkmode_automation/blob/main/README.md#install)
+- [Install wordpress Locally](https://github.com/imranhasanraaz/wp_darkmode_automation/blob/main/README.md#install-wordpress-locally)
+- [To Run This Project](https://github.com/imranhasanraaz/wp_darkmode_automation/blob/main/README.md#to-run-this-project)
 - 
 
 # Introduction
