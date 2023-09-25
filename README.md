@@ -34,7 +34,10 @@ https://www.oracle.com/java/technologies/downloads/
   - Config src/main/resources/config.json this file according to your wordpress Local server adress
   - Build this project as a maven project.
   - Run src/test/java/tests/TestOfWPDarkMode.java this file.
+  - You can see logs in the terminal.
     
 ![image](https://github.com/imranhasanraaz/wp_darkmode_automation/assets/110620143/1e43b60e-0ce2-4dd7-a543-b628b1ebbca1)
+![image](https://github.com/imranhasanraaz/wp_darkmode_automation/assets/110620143/861eac0d-5029-4e69-ac34-b8d093e9c1f5)
+
 
     
