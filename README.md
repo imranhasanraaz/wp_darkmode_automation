@@ -6,7 +6,6 @@
 - [Install](https://github.com/imranhasanraaz/wp_darkmode_automation/blob/main/README.md#install)
 - [Install wordpress Locally](https://github.com/imranhasanraaz/wp_darkmode_automation/blob/main/README.md#install-wordpress-locally)
 - [To Run This Project](https://github.com/imranhasanraaz/wp_darkmode_automation/blob/main/README.md#to-run-this-project)
-- 
 
 # Introduction
 -Main aim of this project is automated test cases of wordpress plugin. 
