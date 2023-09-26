@@ -28,7 +28,7 @@ https://www.oracle.com/java/technologies/downloads/
 
 # Install WordPress Locally
 
-[See Here](https://www.hostinger.com/tutorials/wordpress-localhost)
+[See Here How to install wordpress Locally](https://www.hostinger.com/tutorials/wordpress-localhost)
 
 ![image](https://github.com/imranhasanraaz/wp_darkmode_automation/assets/110620143/6f8313c6-7ba5-4c5f-8a44-3402149f466d)
 
@@ -40,6 +40,9 @@ https://www.oracle.com/java/technologies/downloads/
 - Java 8 and above are supported.
 - Maven 3 and above are supported.
 - Install above programs (Java, Maven, Wordpress local server)
+- Make sure you have a folder name wordpress in your htdocs folder.
+- If everything goes well then goto this link from your browser **http://localhost/wordpress/wp-login.php**
+- If the above link working then goto **Running Procederues**
 
   **Running Procedures**
   - Clone this repository.
