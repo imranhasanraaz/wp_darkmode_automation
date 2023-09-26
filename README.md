@@ -13,7 +13,7 @@
 # Technologies used in this project
 - [Aquality Selenium 4.0.0](https://github.com/aquality-automation/aquality-selenium-java)
 - [TestNG 7.8.1](https://mvnrepository.com/artifact/org.testng/testng)
-- Wordpress 6.3.1 
+- [Wordpress 6.3.1](https://wordpress.org/latest.zip)
 
 # Install
 **Java**  
